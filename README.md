@@ -1,1 +1,2 @@
 # credit-card-fraud-detect
+This is about credit card fraud detection, where it can detect fraud by using machine learning models to protect the users' data. Typically, these types of fraud occur on e-commerce sites such as Netflix, Amazon, and others, while users can make subscriptions to their respective accounts. In such cases, we may experience fraud transactions, resulting in the loss of money or the users' personal bank data.
